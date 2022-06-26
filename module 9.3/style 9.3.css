@@ -1,0 +1,27 @@
+.output {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+  margin-top: 20px;
+}
+
+.card {
+	width: 200px;
+	margin: 20px;
+}
+
+.card-image {
+	display: block;
+	width: 200px;
+	height: 150px;
+}
+
+.input {
+  width: 225px;
+}
+
+.btn {
+  height: 30px;
+  background-color: blue;
+  color: white;
+}
